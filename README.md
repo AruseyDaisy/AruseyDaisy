@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AruseyDaisy
+- 👋 Hi, I’m Daisy Arusey
 - 🌱 I’m currently learning Blazor.
 
 <!---
